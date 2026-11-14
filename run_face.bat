@@ -1,0 +1,1 @@
+C:\Users\Admin\miniforge3\envs\face-env\python.exe face_detect.py
